@@ -11,7 +11,7 @@
 	
 	<artifactId>datagear-web</artifactId>
 	<name>datagear-web</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	
 	<properties>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
